@@ -1,28 +1,18 @@
 {
-  "name": "material-radio-checkbox",
-  "main": [
-	"material-radio-checkbox.css",
-	"material-radio-checkbox.scss"
-  ],
-  "version": "0.1",
+  "name": "materia-radio-checkbox",
   "homepage": "https://github.com/sudeep494/material-radio-checkbox",
+  "description": "material icon styled radio buttons and checkboxes",
+  "main": "material-radio-checkbox.css",
+  "keywords": [
+    "material-design",
+    "material-icons",
+    "material-design-icons",
+    "material",
+    "design",
+    "icons"
+  ],
   "authors": [
-	"sudeep494"
+    "sudeep shrestha"
   ],
-  "license": "MIT",
-  "ignore": [
-	"**/.*",
-	"bower_components"
-  ],
-  "dependencies": {},
-  "devDependencies": {},
-  "_release": "0.1",
-  "_resolution": {
-	"type": "version",
-	"tag": "v0.1"
-  },
-  "_source": "https://github.com/sudeep494/material-radio-checkbox.git",
-  "_target": "^0.1",
-  "_originalSource": "material-radio-checkbox",
-  "_direct": true
+  "license": "MIT"
 }
