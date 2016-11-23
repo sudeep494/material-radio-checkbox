@@ -1,18 +1,18 @@
 {
-  "name": "materia-radio-checkbox",
+  "name": "material-radio-checkbox",
   "homepage": "https://github.com/sudeep494/material-radio-checkbox",
   "description": "material icon styled radio buttons and checkboxes",
   "main": "material-radio-checkbox.css",
   "keywords": [
-    "material-design",
-    "material-icons",
-    "material-design-icons",
-    "material",
-    "design",
-    "icons"
+	"material-design",
+	"material-icons",
+	"material-design-icons",
+	"material",
+	"design",
+	"icons"
   ],
   "authors": [
-    "sudeep shrestha"
+	"sudeep shrestha"
   ],
   "license": "MIT"
 }
