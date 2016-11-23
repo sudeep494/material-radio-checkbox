@@ -3,6 +3,7 @@
   "homepage": "https://github.com/sudeep494/material-radio-checkbox",
   "description": "material icon styled radio buttons and checkboxes",
   "main": "material-radio-checkbox.css",
+  "version": "0.1.0",
   "keywords": [
 	"material-design",
 	"material-icons",
