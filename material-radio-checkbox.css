@@ -1,0 +1,53 @@
+// material radio
+	.radio{
+		line-height:2em;
+	}
+	.radio	input[type='radio']{
+		opacity: 0;
+		z-index: 1;
+	}
+	.radio input[type='radio']+label{
+		position:relative;
+		padding-left:1.5em;
+	}
+	.radio	input[type='radio']+label:before{
+		font-family:'Material Icons';
+		font-size:1.3em;
+		position:absolute;
+		top:1px;
+		left:0px;
+		display:inline-block;
+	}
+	.radio	input[type='radio']:checked+label:before{
+		content:'\e837';
+	}
+	.radio	input[type='radio']+label:before{
+		content:'\e836';
+	}
+
+	// material checkbox
+	.checkbox{
+		line-height:1.8em;
+	}
+	.checkbox input[type='checkbox'] {
+		opacity: 0;
+		z-index: 1;
+	}
+	.checkbox input[type='checkbox']+label{
+		position:relative;
+		padding-left:1.5em;
+	}
+	.checkbox input[type='checkbox']+label:before{
+		font-family:'Material Icons';
+		font-size:1.3em;
+		position:absolute;
+		top:-1px;
+		left:0px;
+		display:inline-block;
+	}
+	.checkbox input[type='checkbox']:checked+label:before{
+		content:'\e834';
+	}
+	.checkbox input[type='checkbox']+label:before{
+		content:'\e835';
+	}
