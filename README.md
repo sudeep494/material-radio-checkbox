@@ -5,7 +5,9 @@ Material Radio Checkbox
 [Material Design Icons][] . Material Design Icons styled radio button and checkboxes.
 
 
-**[Demo][]**
+Install
+--------
+bower install material-radio-checkbox
 
 Use
 ------------
