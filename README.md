@@ -18,12 +18,10 @@ Checkbox Example:
 ````html
 <form role="form">
   ...
-  <div class="checkbox">
-	<input type="checkbox" id="checkbox1">
-	<label for="checkbox1">
+	<label class="checkbox">
+		<input type="checkbox" />
 		Check me out
 	</label>
-  </div>
   ...
 </form>
 ````
@@ -36,17 +34,13 @@ Radiobutton Example:
 ````html
 <form role="form">
   ...
-  <div class="radio">
-	  <input type="radio" name="radio2" id="radio3" value="option1">
-	  <label for="radio3">
-		  One
-	  </label>
+  <label class="radio">
+	  <input type="radio" name="radio2" value="option1">
+	  One
   </div>
-  <div class="radio">
-	  <input type="radio" name="radio2" id="radio4" value="option2" checked>
-	  <label for="radio4">
-		  Two
-	  </label>
+  <label class="radio">
+	  <input type="radio" name="radio2" value="option2" checked>
+	  Two
   </div>
   ...
 </form>
